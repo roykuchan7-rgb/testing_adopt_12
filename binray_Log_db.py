@@ -67,10 +67,10 @@ WHATSAPP_CONFIG = {
 }
 
 MYSQL_SETTINGS = {
-    "host":   "194.168.24.12",
+    "host":   "192.168.24.12",
     "port":   3306,
-    "user":   "adopt_vm_008",
-    "passwd": "Adoptvm008@2023",
+    "user":   "clusteradmin",
+    "passwd": "ADOPT@2024#WIOCC@2023",
 }
 
 WATCH_DATABASES = {
