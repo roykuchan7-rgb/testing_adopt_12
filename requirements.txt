@@ -3,3 +3,4 @@ pymysql==1.1.1
 requests==2.32.3
 mysql-replication==0.45.1
 resend==2.2.0
+gunicorn==21.2.0
